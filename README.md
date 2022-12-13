@@ -1,4 +1,4 @@
-## Oi eu sou Jose Marques, Desenvolvedor Full Stack na área de tecnologia!
+## Oi eu sou Jose Marques, sou Desenvolvedor Full Stack na área de tecnologia!
 <div align="center">
   <a href="https://github.com/marqueschristmann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
   <img align="center" alt="Marques-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marques-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marques-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-ynokf&psig=AOvVaw0so_LSK-Lsb4PSgnz3l6lj&ust=1671019049398000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPCRgJ3F9vsCFQAAAAAdAAAAABAD">
 </div>
   
   ##
