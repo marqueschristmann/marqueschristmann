@@ -6,7 +6,7 @@
     <h1>Tecnologias que Ultilizo No Dia a Dia</h1>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://www.google.com/search?q=anime+hacker+gif&tbm=isch&ved=2ahUKEwjc6Pu8hIb8AhX6N7kGHe2ABSgQ2-cCegQIABAA&oq=anime+hacker+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAgQHjoECAAQQzoGCAAQBxAeOgQIABAeOgYIABAFEB5QwBFY5TVg8TZoAXAAeACAAZsCiAGzCJIBBTAuNi4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=SoigY9ybD_rv5OUP7YGWwAI&bih=657&biw=1366#imgrc=8ojkXCq6C9c2uM">
+  <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://at.tumblr.com/hokengeto/anime-akudama-drive-2020-director-tomohisa/8uxu0llc09mp">
   <img align="center" alt="Marques-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marques-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marques-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
