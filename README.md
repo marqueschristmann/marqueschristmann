@@ -6,7 +6,6 @@
     <h1>Tecnologias que Ultilizo No Dia a Dia</h1>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://at.tumblr.com/hokengeto/anime-akudama-drive-2020-director-tomohisa/8uxu0llc09mp">
   <img align="center" alt="Marques-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marques-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marques-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,6 +25,7 @@
   <img align="center" alt="Marques-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Marques-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://mystickermania.com/cdn/stickers/anime/death-note-chibi-512x512.png">
+    <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://at.tumblr.com/hokengeto/anime-akudama-drive-2020-director-tomohisa/8uxu0llc09mp">
 </div>
   
   ##
