@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Olá me chamo Marques, sou Desenvolvedor Full Stack !</h1>
   <a href="https://github.com/marqueschristmann">
- <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="http://i.stack.imgur.com/SBv4T.gif">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marqueschristmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqueschristmann&layout=compact&langs_count=7&theme=dracula"/>
     <h1>Tecnologias que Ultilizo No Dia a Dia</h1>
@@ -26,6 +25,7 @@
   <img align="center" alt="Marques-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Marques-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://mystickermania.com/cdn/stickers/anime/death-note-chibi-512x512.png">
+   <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="http://i.stack.imgur.com/SBv4T.gif">
 </div>
   
   ##
