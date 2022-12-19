@@ -25,7 +25,7 @@
   <img align="center" alt="Marques-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Marques-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://mystickermania.com/cdn/stickers/anime/death-note-chibi-512x512.png">
-  <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/JPX5iWzkrfQAAAAd/akudama-drive-anime.gif">
+  <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/KzAO956.gif">
 </div>
   
   ##
