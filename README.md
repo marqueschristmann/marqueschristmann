@@ -2,7 +2,7 @@
   <h1>Olá me chamo Marques, sou Desenvolvedor Full Stack !</h1>
   <a href="https://github.com/marqueschristmann">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marqueschristmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <a href="https://tenor.com/pt-BR/view/rick-and-morty-trippy-drive-aesthetic-gif-17272801">
+    <img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width="250" />
     <h1>Tecnologias que Ultilizo No Dia a Dia</h1>
 </div>
 <div style="display: inline_block"><br>
