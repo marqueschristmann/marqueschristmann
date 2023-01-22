@@ -1,6 +1,6 @@
 <h1>Olá me chamo Marques, sou Desenvolvedor Full Stack !</h1>
-  <h5>:hourglass_flowing_sand:  Desenvolvimento Front-end</h5>
-  <h5>:hourglass_flowing_sand: Desenvolvimento Back-end </h5>
+  <h5>-:hourglass_flowing_sand:  Desenvolvimento Front-end</h5>
+  <h5>-:hourglass_flowing_sand: Desenvolvimento Back-end </h5>
 <div align="center">
   <a href="https://github.com/marqueschristmann">
 <div align="center"> <a href=""https://github.com/marqueschristmann""> </div>
