@@ -1,10 +1,8 @@
 <div align="center">
   <h1>Olá me chamo Marques, sou Desenvolvedor Full Stack !</h1>
-##
- - :hourglass_flowing_sand:  Desenvolvimento Front-end
- - :hourglass_flowing_sand: Desenvolvimento Back-end
+  <h3>:hourglass_flowing_sand:  Desenvolvimento Front-end</h3>
+  <h3>:hourglass_flowing_sand: Desenvolvimento Back-end </h3>
   <a href="https://github.com/marqueschristmann">
-##
 <div align="center"> <a href=""https://github.com/marqueschristmann""> </div>
  <div>
   <img height="160em" 
