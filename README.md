@@ -1,8 +1,16 @@
 <div align="center">
   <h1>Olá me chamo Marques, sou Desenvolvedor Full Stack !</h1>
+ - :hourglass_flowing_sand:  Desenvolvimento Front-end
+ - :hourglass_flowing_sand: Desenvolvimento Back-end
   <a href="https://github.com/marqueschristmann">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marqueschristmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqueschristmann&layout=compact&langs_count=7&theme=dracula"/>
+##
+<div align="center"> <a href=""https://github.com/marqueschristmann""> </div>
+ <div>
+  <img height="160em" 
+       src="https://github-readme-stats.vercel.app/api?username=Marqueschristmann&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqueschristmann&layout=compact&theme=react" /> 
+</div>
+##
     <h1>Tecnologias que Ultilizo No Dia a Dia</h1>
      <img align="center align="right" alt="Marques-pic" height="150" style="border-radius:100px;" src="https://i.imgur.com/KzAO956.gif">
 </div>
