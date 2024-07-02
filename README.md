@@ -13,6 +13,11 @@
 <div align="center"> <a href=""https://github.com/marqueschristmann""> </div>
  <div>
    <h1> # 📊 GitHub Stats: <h1>
+     <div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   <img height="160em" 
       <br>![](https://github-readme-stats.vercel.app/api?username=Marqueschristmann&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqueschristmann&layout=compact&theme=react" /> 
