@@ -20,13 +20,9 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📊 GitHub Stats:
-<div align="center left:10px">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marqueschristmann&theme=omni&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Marques's GitHub Stats" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marqueschristmann&theme=omni&hide_border=true&layout=compact&langs_count=16" alt="Marques's Top Languages" />
-</div>
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marqueschristmann&theme=omni&hide_border=true" alt="Marques's Streak Stats" />
 </div>
 
