@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="assets/images/Hi.gif" alt="hi gif" width="33">, Olá me chamo Marques, sou Desenvolvedor Full Stack 😎 !
+ Olá me chamo Marques, sou Desenvolvedor Full Stack 😎 !
 </h1>
 &nbsp;
 
