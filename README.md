@@ -14,6 +14,7 @@
   <a href="https://www.instagram.com/marqueschristmann/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/marques-christmann-363a3a224?trk=public_profile_browsemap" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpowerofsin%2Fart%2FDaily-Always-gets-up-701185782&psig=AOvVaw2g6UDMA63_jyTUz8VRcuVE&ust=1719971400414000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDksPWeh4cDFQAAAAAdAAAAABAd">
 </div>
 
 # 📊 GitHub Stats:
