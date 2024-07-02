@@ -1,6 +1,6 @@
 <h1>Olá me chamo Marques, sou Desenvolvedor Full Stack 😎 !</h1>
-  <h5>-:hourglass_flowing_sand:  Desenvolvimento Front-end ✔ </h5>
-  <h5>-:hourglass_flowing_sand: Desenvolvimento Back-end ✔ </h5>
+ # 💫 About Me:
+🔭 I’m currently working at Stone Co. A fintech from Brazil<br>🤝 I’m looking for help with Golang<br>🌱 I’m currently learning more about functional programming and machine learning<br>⚡ Fun fact, I'm an avgeek <br> 💬 Ask me about anything, I am happy to help;
 <div align="center">
   <a href="https://github.com/marqueschristmann">
 <div align="center"> <a href=""https://github.com/marqueschristmann""> </div>
