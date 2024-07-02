@@ -1,26 +1,17 @@
 <h1>Olá me chamo Marques, sou Desenvolvedor Full Stack 😎 !</h1>
-<h2>💫 About Me:</h2>
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+<h2>💫 About Me:</h2> - 🔭 Atualmente estou trabalhando em ... - 🌱 Atualmente estou aprendendo ... - 👯 Estou procurando colaborar em ... - 🤔 Estou procurando ajuda com ... - 💬 Pergunte-me sobre ... - 📫 Como entrar em contato comigo: ... - 😄 Pronomes: ... - ⚡ Curiosidade:
+...
 <div align="center">
-  <a href="https://github.com/marqueschristmann">
-<div align="center"> <a href=""https://github.com/marqueschristmann""> </div>
- <div>
-   <h1> # 📊 GitHub Stats: <h1>
+    <a href="https://github.com/marqueschristmann">
+        <div align="center">
+            <a href="" https://github.com/marqueschristmann ""> </div>
+        <div>
+            <h1> # 📊 GitHub Stats: <h1>
      <div>
-<a href="https://github.com/Marqueschristmann">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqueschristmann&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Marqueschristmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  <img height="160em" 
-      <br>![](https://github-readme-stats.vercel.app/api?username=Marqueschristmann&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqueschristmann&layout=compact&theme=react" /> 
+<a href="https://github.com/Marqueschristmann">
+<img loading="Marqueschristmann" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqueschristmann&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="Marqueschristmann" height="180em" src="https://github-readme-stats.vercel.app/api?username=Marqueschristmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     <h2>Tecnologias que Ultilizo No Dia a Dia 💻</h2>
      <img align="center align="right" alt="Marques-pic" height="150" style="border-radius:100px;" src="https://i.imgur.com/KzAO956.gif">
