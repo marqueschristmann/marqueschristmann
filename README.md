@@ -17,6 +17,7 @@
   <img align="right" alt="Marques-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f4eda4e4-9f65-44c0-abf1-0b08d588f21c/dblmbjr-5e3a8125-5917-48fc-8ce2-80f2e8cde44c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y0ZWRhNGU0LTlmNjUtNDRjMC1hYmYxLTBiMDhkNTg4ZjIxY1wvZGJsbWJqci01ZTNhODEyNS01OTE3LTQ4ZmMtOGNlMi04MGYyZThjZGU0NGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sj25DWWmWP0kNP0EUycP-bLILaFIs-_ThvEREChsWfo">
 </div>
 
+
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marqueschristmann&theme=omni&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Marques's GitHub Stats" />
