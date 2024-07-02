@@ -20,7 +20,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📊 GitHub Stats:
-<div style="display: flex; align-items: flex-start; gap: 10px;>
+<div style="display: flex; align-items: flex-center; gap: 10px;>
   <img src="https://github-readme-stats.vercel.app/api?username=marqueschristmann&theme=omni&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Marques's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marqueschristmann&theme=omni&hide_border=true&layout=compact&langs_count=16" alt="Marques's Top Languages" />
 </div>
