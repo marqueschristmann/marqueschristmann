@@ -48,34 +48,17 @@ Acredito que código de qualidade começa com uma boa compreensão do problema e
 
 <div align="center">
 
-### Linguagens
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,php" />
-
-### Frontend e aplicações
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma" />
-
-### Backend e APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django" />
-
-### Bancos de dados e persistência
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase" />
-
-### Infraestrutura e ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel" />
-
-### Ciência de dados
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-
+| Categoria | Tecnologias / Ferramentas |
+| :--- | :--- |
+| **Linguagens** | <img src="https://skillicons.dev/icons?i=typescript,javascript,python" /> |
+| **Frontend & Apps** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,django" /> |
+| **Banco de Dados** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase,mysql" /> |
+| **Infraestrutura** | <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel" /> |
+| **Ciência de Dados** | <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/> |
 
 </div>
+
 
 
 ### Soluções sob demanda
@@ -88,17 +71,19 @@ Também desenvolvo soluções para necessidades específicas, incluindo sistemas
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=marqueschristmann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+<a href="https://github.com/marqueschristmann">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=marqueschristmann&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Contribution Streak" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marqueschristmann&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens dos repositórios analisados" />
+<br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=marqueschristmann&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+<a href="https://github.com/marqueschristmann?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=marqueschristmann&style=flat-square&color=06B6D4&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" alt="Visualizações do perfil" />
+<sub>Contributions from public and eligible private repositories.</sub>
 
 </div>
 
